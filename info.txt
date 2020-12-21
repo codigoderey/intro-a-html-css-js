@@ -1,0 +1,12 @@
+Este documento contiene los enlaces a las páginas web con documentación sobre el tema.
+
+Referencia HTML
+https://developer.mozilla.org/es/docs/Web/HTML/Referencia
+
+Referencia CSS
+https://developer.mozilla.org/es/docs/Web/CSS/Referencia_CSS
+
+Aprendizaje de JS
+https://developer.mozilla.org/es/docs/Learn/JavaScript
+
+Es recomendable aprender a utilizar estos recursos, experimentar y ponerle manos a la obra.
